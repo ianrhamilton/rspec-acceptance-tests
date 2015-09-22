@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+output
+*.failures
+log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.gem
+
+target
+allure
+allure-report
+.idea
+*.iml
+*.ipr
+*.iws
+*.xml
+
